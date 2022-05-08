@@ -10,3 +10,5 @@ print('x == y =', x == y)
 print('x != y =', x != y)
 # Greater than equal to
 print('x >= y =', x >= y)
+# Less than equal to
+print('x <= y =', x <= y)
